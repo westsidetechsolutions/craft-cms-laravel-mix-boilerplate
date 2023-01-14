@@ -1,0 +1,22 @@
+dateModified: 1672689724
+email:
+  fromEmail: chris@westsidetechsolutions.com
+  fromName: 'Grandville Barbershop'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    6e231ce6-aae7-4ca7-8bbf-211a6751edb5: Common
+    79455abe-a117-4d14-98c2-64bb7761ffc8: 'Grandville Barbershop'
+    e06f09bc-07c2-4104-ab47-3ed9db21958c: 'Grandville Barbershop'
+system:
+  edition: solo
+  live: true
+  name: 'Grandville Barbershop'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
